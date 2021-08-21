@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Catamaran', sans-serif;
+}
+span{
+    color: #FBB400;
+}
+header {
+    display: flex;
+}
+button{
+    background-color: #99BAED;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    width: 188px;
+    height: 76px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+.logo {
+    display: flex;
+    cursor: pointer;
+}
+.img_logo{
+    margin-top: 11px;
+    margin-left: 173.5px;
+}
+.text_logo{
+    font-weight: 600;
+    font-size: 40px;
+    color: #99BAED;
+    margin-top: 55px;
+    margin-left: -27.5px;
+}
+.menu_nav{
+    display: flex;
+    list-style: none;
+    font-weight: 500;
+    font-size: 25px;
+    color: #163561;
+    margin-left: 100px;
+}
+.menu_list{
+    padding: 66px 24px 10px 24px;
+}
+.menu_list:hover{
+    background-color: #A3C1EF;
+    border-radius: 0 0 5px 5px;
+    color: #fff;
+}
+.img_profile{
+    margin-left: 376px;
+    margin-top: 63px;
+}
+.img_push{
+    margin-left: 79px;
+    margin-top: 63px;
+}
+.button_menu {
+    margin-left: 82px;
+    margin-top: 46px;
+}
+.hairstyle{
+    display: flex;
+    color: #153461;
+}
+.hairstyle_btext{
+    font-size: 75px;
+    font-weight: 700;
+}
+.hairstyle_stext{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.hairstyle_button{
+    margin-top: 100px;
+}
+.hairstyle{
+    margin-top: 49px;
+    margin-left: 188px;
+}
+.hairstyle_btext{
+    margin-top: 102px;
+    max-width: 580px;
+    max-height: 330px;
+    font-size: 75px;
+    font-weight: 700;
+    color: #163561;
+}
+.hairstyle_stext{
+    max-width: 526px;
+    max-height: 114px;
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 25px;
+    color: #153461;
+}
+.history{
+    display: flex;
+    margin-top: 226px;
+    margin-left: 82px;
+}
+.history_btext{
+    margin-top: 111px;
+    margin-bottom: 66px;
+    margin-left: 149px;
+    max-width: 385px;
+    max-height: 315px;
+    font-size: 75px;
+    font-weight: 700;
+    color: #163561;
+}
+.history_stext{
+    max-width: 526px;
+    max-height: 114px;
+    font-weight: 400;
+    font-size: 25px;
+    color: #153461;
+    padding-bottom: 48px;
+    margin-left: 149px;
+}
+.history_button{
+    margin-top: 60px;
+    margin-left: 149px;
+}
+.services{
+    max-width: 390px;
+    max-height: 165px;
+    margin: 136px auto 0;
+    font-weight: 700;
+    font-size: 70px;
+    color: #153461;
+    margin-bottom: 83px;
+}
+.cards{
+    height: 533px;
+    margin-bottom: 272px;
+}
+.gallary_text{
+    text-align: center;
+    font-weight: 700;
+    font-size: 70px;
+    color: #153461;
+    margin-bottom: 110px;
+}
+.gallary_img{
+    display: flex;
+    width: 1380px;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 400px;
+}
+.pic{
+    width: 33.3%;
+    padding: auto;
+}
+.view{
+    margin: 77px 1000px 188px;
+}
+.logo_foot{
+    display: flex;
+    cursor: pointer;
+    margin-left: 800px;
+}
+.img_logo_foot{
+    margin-top: 11px;
+    margin-left: 173.5px;
+}
+.text_logo_foot{
+    font-weight: 600;
+    font-size: 60px;
+    color: #99BAED;
+    margin-top: 69px;
+    margin-left: -27.5px;
+}
+.foot_text{
+    padding: 47px;
+    margin-left: 770px;
+}
+.foot_text{
+    width: 526px;
+    height: 76px;
+    font-weight: 400;
+    font-size: 25px;
+    color: #153461;
+    text-align: center;
+}
